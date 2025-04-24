@@ -13,7 +13,8 @@ html {
   overflow-x: hidden;
 }
 
-body, #root {
+body,
+#root {
   display: flex;
   flex-direction: column;
   height: 100vh;
